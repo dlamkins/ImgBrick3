@@ -1,0 +1,60 @@
+<Item class="Part" referent="RBX12">
+<Properties>
+<bool name="Anchored">true</bool>
+<token name="BottomSurface">0</token>
+<Color3 name="Color">
+<R>$r</R>
+<G>$g</G>
+<B>$b</B>
+</Color3>
+<CoordinateFrame name="CFrame">
+<X>$x</X>
+<Y>$y</Y>
+<Z>$z</Z>
+<R00>1</R00>
+<R01>0</R01>
+<R02>0</R02>
+<R10>0</R10>
+<R11>1</R11>
+<R12>0</R12>
+<R20>0</R20>
+<R21>0</R21>
+<R22>1</R22>
+</CoordinateFrame>
+<token name="FormFactor">0</token>
+<string name="Name">Pixel</string>
+<token name="TopSurface">0</token>
+<float name="Transparency">$t</float>
+<Vector3 name="size">
+<X>1</X>
+<Y>$height</Y>
+<Z>1</Z>
+</Vector3>
+</Properties>
+<Item class="SpecialMesh" referent="RBX1">
+<Properties>
+<token name="LODX">2</token>
+<token name="LODY">2</token>
+<Content name="MeshId"><url>http://www.roblox.com/Asset/?id=9856898</url></Content>
+<token name="MeshType">5</token>
+<string name="Name">Mesh</string>
+<Vector3 name="Offset">
+<X>0</X>
+<Y>0</Y>
+<Z>0</Z>
+</Vector3>
+<Vector3 name="Scale">
+<X>2</X>
+<Y>2</Y>
+<Z>2</Z>
+</Vector3>
+<Content name="TextureId"><url>http://www.roblox.com/asset/?ID=1361097</url></Content>
+<Vector3 name="VertexColor">
+<X>$r</X>
+<Y>$g</Y>
+<Z>$b</Z>
+</Vector3>
+<bool name="archivable">true</bool>
+</Properties>
+</Item>
+</Item>

@@ -1,0 +1,39 @@
+ImgBrick5 Help
+Developed by Dade Lamkins
+Contact Me: DalexL@Live.com
+
+Roblox User: Havemeat
+http://www.roblox.com/User.aspx?ID=148836
+
+Source Available on Github
+https://github.com/DalexL/ImgBrick
+-------------------
+
+****************************************************
+				OPENING AN IMAGE
+****************************************************
+
+1-Open up ImgBrick.
+2-Press the 'Load Image' button in the upper-left hand corner of the window.
+3-Choose an image file.
+
+****************************************************
+	 	   EXPORTING IMAGES TO MODELS
+****************************************************
+
+1-Press the 'Export Image' button.
+2-Choose a save location, the file is saved as a .rbxm (Roblox Model).
+3-Once you have saved, the program will begin converting the image to brick canvas.
+4-Images, because of the new method that 'ImgBrick' converts images with, should never take longer than a minute at max.
+5-After the image is complete, the XML file containing the model will be saved to where you specified in step two.
+
+****************************************************
+	  IMPORTING IMGBRICK MODELS INTO ROBLOX
+****************************************************
+
+1-Open ROBLOX Studio by going to Start->Roblox->Roblox Studio.
+2-Open a place in Edit mode or create a new place by going to File->New.
+3-Once the place has loaded, go to Insert->Model...
+4-Navigate to where you have saved the ImgBrick model.
+5-Open the model and wait a second for the model to load, this could take a little while depending on the size of the imagek you exported.
+
